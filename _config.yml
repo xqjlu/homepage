@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Qiang XU (许强)"
 title_separator          : "-"
 name                     : &name "Qiang XU"
-description              : &description "personal description"
+description              : &description "Love physics and dogs."
 url                      : https://xqjlu.github.io/homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/academicpages.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,10 +58,10 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : xuqiangjlu &twitter
-#facebook:
-#  username               :
-#  app_id                 :
-#  publisher              :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Qiang XU"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "US"
