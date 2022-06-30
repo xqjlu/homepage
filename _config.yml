@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : xuqiangjlu &twitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qiang XU"
-  avatar           : "profile.png"
+  avatar           : "xq.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "US"
   employer         :
