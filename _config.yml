@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiang XU (许强)"
+title                    : "Qiang XU"
 title_separator          : "-"
 name                     : &name "Qiang XU"
 description              : &description "Love physics and dogs."
