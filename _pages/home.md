@@ -20,7 +20,6 @@ Email: <xuq@lbl.gov> / <xuqjlu@gmail.com>
 # Publications
 \+ Corresponding Author   
 a These authors contributed equally
-
 * "[Nonlocal pseudopotential energy density functional for orbital-free density functional theory](https://doi.org/10.1038/s41467-022-29002-3)",
 **Qiang Xu**,Cheng Ma, Wenhui Mi, Yanchao Wang<sup>+</sup>, and Yanming Ma
 ***Nat. Commun.*** **13**, 1385 (2022)
