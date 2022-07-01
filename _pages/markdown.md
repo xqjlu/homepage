@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Welcome to  Wenhui's Homepage"
+title: "Welcome to  Qiang's Homepage"
 author_profile: true
 redirect_from: 
   - /md/
