@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Condensed Matter Physics, Jilin University, 2020
+* B.S. in Physics, Jilin University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 01, 2021 -- now: Postdoctoral Associate
+  * Lawrence Berkeley National Laboratory
+  * Duties included: XPS binding energiy Computaitonal Method
+  * Supervisor: Dr. Oliver G. and Jin Q.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul. 07, 2020 -- Sep. 31, 2021: Postdoctoral Associate
+  * Jilin University
+  * Duties included: Nonlocal Pseudopotentials Method for Orbital-Free Density Functional Theory
+  * Supervisor: Professor Yanchao Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Density Functional Theory (DFT)
+  * Kohn-Sham DFT
+  * Orbital-Free DFT
+* Differential Geometry and Functional Analysis
+* Fortran 90: ~2,1000 and ~11,000 lines of code for ARES and ATLAS packages
 
 Publications
 ======

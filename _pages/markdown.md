@@ -1,11 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Welcome to  Wenhui's Homepage"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+**Qiang XU**
 
 ## Locations of key files/directories
 
