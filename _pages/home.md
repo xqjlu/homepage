@@ -36,4 +36,4 @@ a These authors contributed equally
 **Qiang Xu**<sup>a</sup>, Sheng Wang<sup>a</sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>+/sup>, and Yanming Ma<sup>+/sup>
 ***J. Phys.: Condens. Matter*** **31**, 455901 (2019)
 
-[See more>>](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate)
+[See more>>](https://xqjlu.github.io/homepage/publications/)
