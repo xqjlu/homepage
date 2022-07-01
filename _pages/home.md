@@ -1,12 +1,23 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
+permalink: /home/
+title: "Welcome to  Qiang's Homepage"
 author_profile: true
-  - /publications.md/
-  - /publications.html/
+redirect_from: 
+  - /markdown/
+  - /makrkdown.html/
 ---
 
+I am a Postdoctoral Associate at [Lawrence Berkeley National Lab](https://www.lbl.gov)  
+
+Current address  
+Berkeley, CA 94707, USA  
+Email: <xuq@lbl.gov> / <xuqjlu@gmail.com>
+
+# Research Interests
+
+* Development of theoretical and computational method based on physical knowledge.
+
+# Publications
 + Corresponding Author   
 a These authors contributed equally
 
@@ -23,4 +34,6 @@ a These authors contributed equally
 ***Phys. Rev. B*** **100**, 205132 (2019)
 
 * "[*Ab Initio* electronic structure calculations using a real-space Chebyshev- filtered subspace iteration method](https://doi.org/10.1088/1361-648X/ab2a63)",
-**Qiang Xu**, Sheng Wang, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>+/sup>, and Yanming Ma<sup>+/sup>
+**Qiang Xu**<sup>a/sup>, Sheng Wang<sup>a/sup>, Lantian Xue, Xuecheng Shao, Pengyue Gao, Jian Lv, Yanchao Wang<sup>+/sup>, and Yanming Ma<sup>+/sup>
+
+[See more>>](https://scholar.google.com/citations?hl=en&user=ZiwzYQsAAAAJ&view_op=list_works&sortby=pubdate)
