@@ -4,7 +4,7 @@ title: "Welcome to  Qiang's Homepage"
 author_profile: true
 redirect_from: 
   - /markdown/
-  - /makrkdown.html/
+  - /markdown.html/
 ---
 
 I am a Postdoctoral Associate at [Lawrence Berkeley National Lab](https://www.lbl.gov)  
